@@ -60,4 +60,4 @@ ORDER BY total_count DESC;
 
 ## Files
 - [📐 Entity-relationship diagram (erd.png)](erd.png)
-- [📄 Final presentation deck (PDF)](presentation.pdf)
+- [📄 Final presentation deck (PDF)](presentationCCL.pdf)
