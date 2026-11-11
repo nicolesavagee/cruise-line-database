@@ -59,5 +59,5 @@ ORDER BY total_count DESC;
 - **Sustainability:** removes the paper records generated on every voyage.
 
 ## Files
-- `erd.png`: entity-relationship diagram
-- `presentation.pdf`: final presentation deck
+- [📐 Entity-relationship diagram (erd.png)](erd.png)
+- [📄 Final presentation deck (PDF)](presentation.pdf)
